@@ -1,0 +1,5 @@
+tn\esprit\spring\controllers\LivreurRestApi.class
+tn\esprit\spring\entities\Livreur.class
+tn\esprit\spring\repositories\LivreurRepository.class
+tn\esprit\spring\services\LivreurService.class
+tn\esprit\spring\DeliveryApplication.class
